@@ -1,7 +1,7 @@
 # Automated Signup Flow
 
 **Task:** Automate the signup process of the following site:
-(https://authorized-partner.netlify.app/login)
+https://authorized-partner.netlify.app/login
 
 This script automate the entire signup flow end-to-end with (no manual intervention required) 
 It uses a temporary email from [Mail.tm](https://mail.tm) to receive OTPs automatically, ensuring a clean test environment for each run.
