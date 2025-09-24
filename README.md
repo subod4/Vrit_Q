@@ -8,8 +8,8 @@ It uses a temporary email from [Mail.tm](https://mail.tm) to receive OTPs automa
 
 ## Environment & Setup
 
-**Language:** Python 3.12.0
-**Framework:** [Playwright for Python](https://playwright.dev/python/) (async API) 
+- **Language:** Python 3.12.0
+- **Framework:** [Playwright for Python](https://playwright.dev/python/) (async API) 
 
 ## Installation
 1. Clone this repository
