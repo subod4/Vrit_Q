@@ -15,19 +15,20 @@ It uses a temporary email from [Mail.tm](https://mail.tm) to receive OTPs automa
 1. Clone this repository
 ```bash
 git clone https://github.com/subod4/Vrit_Q.git
+```
 
 2. Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # Linux / macOS
 venv\Scripts\activate      # Windows
-
+```
 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 playwright install
-
+```
 4. Run the Script
 ```bash 
 python signup_automation_script.py
-
+```
